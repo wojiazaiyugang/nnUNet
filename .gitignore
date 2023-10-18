@@ -112,4 +112,5 @@ ENV/
 *.jpeg
 
 *.model
+/nnUNet_preprocessed/
 
